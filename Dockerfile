@@ -1,4 +1,4 @@
-FROM python:3.11-slim
+FROM python:3.8-slim-bookworm
 
 LABEL "maintainer"="Scott Ng <thuongnht@gmail.com>"
 LABEL "repository"="https://github.com/cross-the-world/ssh-pipeline"
